@@ -1,0 +1,131 @@
+{
+  "name": "Bhavesh Jagtap",
+  "personal_details": {
+    "gender": "Male",
+    "age": 22,
+    "phone": "9834540975",
+    "email": "bhavesh.jagtap732@gmail.com"
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "major": "Artificial Intelligence and Data Science",
+      "year": "2020-24",
+      "institution": "Vishwakarma Institute of Technology, Pune",
+      "grade": "8.72"
+    },
+    {
+      "qualification": "12th HSC",
+      "year": "2019-20",
+      "institution": "Matoshri Junior College, Nashik",
+      "grade": "80.92%"
+    },
+    {
+      "qualification": "10th SSC",
+      "year": "2017-18",
+      "institution": "M. S. Kothari Academy, Nashik",
+      "grade": "97%"
+    }
+  ],
+  "internships": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "Solar Secure Solutions",
+      "location": "Bangalore",
+      "duration": "Oct 2023 - Dec 2023",
+      "responsibilities": [
+        "Developed responsive interfaces with HTML, CSS, JavaScript.",
+        "Utilized Bootstrap for consistent, user-friendly design across projects.",
+        "Contributed to diverse full-stack tasks, gaining hands-on end-to-end experience."
+      ]
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Opsnetic Private Limited",
+      "location": "Pune",
+      "duration": "Jan 2024 - Jun 2024",
+      "responsibilities": [
+        "Worked on frameworks like Gatsby, Astro for modifying the website and added CMS to the project.",
+        "Gained practical insights and exposure to the latest technologies in the industry."
+      ]
+    }
+  ],
+  "academic_projects": [
+    {
+      "title": "Text Augmentation using Generative Adversarial Networks, EDA and Backtranslation",
+      "description": [
+        "Processed text augmentation using GANs, compared to Easy Data Augmentation and back translation methods.",
+        "Generated new, semantically similar sentences from an existing sentence, to increase the size and diversity of a dataset.",
+        "Using GANs significantly improved the performance of a classifier."
+      ]
+    },
+    {
+      "title": "Forest fire detection and ecosystem preservation using Computer Vision",
+      "description": [
+        "Detected forest fires in real-time using computer vision, specifically the YOLOv3 object detection algorithm.",
+        "Analyzed large datasets to derive meaningful insights and provided actionable recommendations to the team.",
+        "Detected the location of fires, and sent notifications to corresponding authorities for quick measures."
+      ]
+    },
+    {
+      "title": "Garbage Detection using Computer Vision",
+      "description": [
+        "Used the YOLOv3 computer vision algorithm to identify waste materials in real-time.",
+        "Developed ETL processes to automate data collection, detected the presence of garbage and sent the location data to the relevant authorities for appropriate action.",
+        "Enhanced the efficiency of waste management by automating the detection process and ensuring that waste is disposed of properly."
+      ]
+    }
+  ],
+  "positions_of_responsibility": [
+    {
+      "title": "Chief of Outreach",
+      "organization": "Vishwakarma Expression Hub’23",
+      "responsibilities": [
+        "Led community engagement, brought prominent speakers through targeted research, secured sponsorships, and orchestrated high-impact events.",
+        "Elevated organizational visibility through strategic publicity, fostering key partnerships for exponential growth."
+      ]
+    },
+    {
+      "title": "Aesthetics Head",
+      "organization": "Vishwakarma Expression Hub’22",
+      "responsibilities": [
+        "Designed visually stunning art installations for events, also creating art to showcase our creativity on social media."
+      ]
+    },
+    {
+      "title": "Graphic Coordinator",
+      "organization": "Technocrats’22",
+      "responsibilities": [
+        "Created eye-catching designs for events and informative posts for social media."
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Text Data Augmentation Using Generative Adversarial Networks, Back Translation and EDA",
+      "publisher": "Springer",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-37940-6_32"
+    }
+  ],
+  "skills": {
+    "programming_languages": ["Python", "C++", "JavaScript"],
+    "machine_learning": [
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "GANs"
+    ],
+    "web_development": ["HTML", "CSS", "JavaScript", "SQL", "React"],
+    "other_skills": [
+      "Leadership",
+      "Cross-functional Collaboration",
+      "Verbal Communication",
+      "Written Communication"
+    ]
+  }
+}
